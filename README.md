@@ -1,2 +1,3 @@
-# release-notes
+# Release Notes
+
 My Release Notes
